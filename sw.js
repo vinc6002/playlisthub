@@ -1,4 +1,4 @@
-const CACHE_NAME = 'playlisthub-v1';
+const CACHE_NAME = 'playlisthub-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
